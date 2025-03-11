@@ -236,7 +236,7 @@
   "label.window": "Прозорец",
   "label.yesterday": "Вчера",
   "message.action-confirmation": "Въведете {confirmation} в полето по-долу, за да потвърдите.",
-  "message.active-users": "{x} {x, plural, one {активен един} other {активни други}}",
+  "message.active-users": "{x} {x, plural, one {посетител в момента} other {посетители в момента}}",
   "message.collected-data": "Събрани данни",
   "message.confirm-delete": "Сигурни ли сте, че искате да изтриете {target}?",
   "message.confirm-leave": "Сигурни ли сте, че искате да напуснете {target}?",
