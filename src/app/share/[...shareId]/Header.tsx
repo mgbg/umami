@@ -9,8 +9,8 @@ import styles from './Header.module.css';
 export function Header() {
   return (
     <div></div>
-    <header className={styles.header}>
-{/*       <div>
+{/*    <header className={styles.header}>
+       <div>
         <Link href="https://umami.is" target="_blank" className={styles.title}>
           <Icon size="lg">
             <Icons.Logo />
@@ -22,8 +22,8 @@ export function Header() {
         <ThemeButton />
         <LanguageButton />
         <SettingsButton />
-      </div> */}
-{/*     </header> */}
+      </div>
+      </header> */}
   );
 }
 
